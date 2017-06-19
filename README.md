@@ -1,0 +1,2 @@
+# mapstruct
+Test mapstruct
